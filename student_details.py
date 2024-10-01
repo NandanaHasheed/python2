@@ -1,3 +1,9 @@
+'''
+AUTHOR: Nandana
+Date:01-10-2024
+Python program to get the student details
+'''
+
 roll_number=int(input("Enter your roll number:"))
 roll_number=roll_number+1
 name=input(("Enter your name :"))
